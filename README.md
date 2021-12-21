@@ -4,8 +4,11 @@
 
 **Video Demo of the project**
 
-[![Watch the video](https://i9.ytimg.com/vi/DNmgIxrbZkA/mq2.jpg?sqp=CNS22I0G&rs=AOn4CLBjzG64OkmN5FVHOhh0FePgaOrsiQ)](https://youtu.be/DNmgIxrbZkA)
+➡[Watch the video](https://www.youtube.com/watch?v=DNmgIxrbZkA)
 
+➡[Devpost: DevTool API](https://devpost.com/software/devtool-api)
+
+![Cloudnative win](https://user-images.githubusercontent.com/57084217/146932991-71cdf7ea-2fac-4512-b84e-487ce654bdbf.PNG)
 
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
